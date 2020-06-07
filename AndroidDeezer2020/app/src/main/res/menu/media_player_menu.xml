@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.androiddeezer2020.ListTrackActivity">
+
+    <item
+        android:id="@+id/menu_play"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/search_title" />
+
+    <item
+        android:id="@+id/menu_pause"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="@string/search_title" />
+
+    <item
+        android:id="@+id/menu_next"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/search_title"/>
+
+</menu>
